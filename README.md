@@ -1,4 +1,4 @@
-Start at 2023.3.8 23:35 first
+Start at 2023.3.8 23:35
 
 ## do 
 - 创建仓库修改默认的主分支名字，默认为main---修改到master
